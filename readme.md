@@ -25,3 +25,11 @@ O objetivo deste projeto é fazer a segmentação de clientes por meio de uma an
 A base de dados é processada de forma a encontrar a recência, a frequência e o valor mediano da compra de cada cliente. Após isto, as variáveis são categorizadas de acordo com seus quartis e grupos de clientes são gerados baseados nas combinações das categorias. Por fim, são obtidos 16 categorias de clientes.
 
 O mapa de calor gerado onde se apresenta as medianas de recência, frequência e valor de fatura de cada categoria de clientes permite ao gestor do negócio uma tomada de decisão em termos de direcionamento de marketing, políticas de desconto, entre outros, visando maior rentabilidade de seu negócio
+
+## Para rodar o projeto:
+
+1. Crie um venv
+2. Ative o venv
+3. ```pip install -r requirements.txt```
+4. Selecione o kernel no Jupyter Notebook
+
